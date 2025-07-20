@@ -16,7 +16,6 @@ This FastAPI application validates student eligibility for various college cours
 8. [API Documentation & Testing](#api-documentation--testing)
 9. [Logging](#logging)
 10. [Sample Requests](#sample-requests)
-11. [License](#license)
 
 ---
 

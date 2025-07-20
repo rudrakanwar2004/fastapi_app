@@ -1,0 +1,56 @@
+# Python bytecode
+
+**pycache**/
+\*.py\[cod]
+\*\$py.class
+
+# Environment vars
+
+.env
+venv/
+ENV/
+env/
+.venv/
+
+# SQLite database
+
+\*.db
+\*.sqlite3
+
+# Logs
+
+*.log
+
+# IDEs and editors
+
+.vscode/
+.idea/
+\*.suo
+*.ntvs*
+\*.njsproj
+\*.sln
+
+# macOS
+
+.DS\_Store
+
+# FastAPI/Uvicorn stuff
+
+\*.pid
+
+# pytest
+
+.pytest\_cache/
+
+# mypy
+
+.mypy\_cache/
+
+# Coverage
+
+htmlcov/
+.coverage
+
+# Pydantic models cache
+
+pydantic\_cache/
